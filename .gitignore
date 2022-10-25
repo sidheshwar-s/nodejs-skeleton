@@ -1,0 +1,15 @@
+# Dependency directories
+/node_modules
+
+# Logs
+*.log
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# envs and extras
+.DS_Store
+/*.env
